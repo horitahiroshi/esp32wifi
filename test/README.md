@@ -1,5 +1,3 @@
-# ESP32 WiFi project
-
 ## Testing BT comm between Ubuntu and ESP32
 
 For testing BT communication between Ubuntu 10.04 and ESP32, follow steps:
